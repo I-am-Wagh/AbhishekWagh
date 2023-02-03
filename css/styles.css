@@ -1,0 +1,77 @@
+body {
+    text-align: center;
+    
+}
+.top-container {
+    background-color: rgb(219, 253, 242);
+    position: relative;
+    padding-top: 150px;
+    border: solid 0px;
+    margin: 0px;
+}
+a {
+    color: #11999E;
+}
+h1 {
+    font-family: dancing-scipt;
+    font-size: 500%;
+    text-align: center;
+    margin-bottom: 0%;
+    color: #66BFBF;
+}
+h2 {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 200%;
+    font-weight: normal;
+    text-align: center ;
+    margin-top: 0%;
+    color: #66BFBF;
+}
+h3 {
+    color:#11999E
+}
+hr {
+    border-style: dotted;
+    border-top: 0px;
+    border-radius:200%;
+    color: #11999E;
+    size: 200%;
+    margin: 0%;
+    width: 5%;
+    position: relative;
+    left: 48%
+    
+}
+.topcloud {
+    position: absolute;
+    right: 30%;
+}
+.bottomcloud {
+    position: absolute;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 50px;
+}
+.bottom-container {
+    background-color: #11999E;
+}
+.footer-link {
+    color: black;
+}
+.myprofileimg {
+    width: 15%;
+
+}
+.codeimg {
+    width: 25%;
+    float:left ;
+    margin-right: 20%;
+}
+.chilliesimg {
+    width: 25%;
+    float: right;
+    margin-left: 20%;
+}
